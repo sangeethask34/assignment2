@@ -1,0 +1,149 @@
+body{
+    background-color:#F0FFFF;
+    margin-top: 0;
+   }
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    padding: 16px 78px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+   
+.logo{
+    width:130px;
+    font-weight: 900;
+    font-size: 32px;
+    letter-spacing: -1;
+    color:#0084ff;
+    font-family: Raleway;
+}
+.logo-text{
+Margin:0;
+font-weight: 500;
+Font: Raleway;
+font-style: Italic
+}
+.menu-item{
+   margin-left: 28px;
+   padding-left: 28px;
+}
+.dropdown-icon{
+    padding-top: 0;
+    padding-left: 8px;
+    width:10px;
+    height:10px;
+}
+#article1{
+    width:85%;
+    margin-left: 200px;
+    
+    
+}
+h1{
+   font-weight: 600;
+   font-size:40px;
+   margin-left: 40px;
+   
+}
+.filter-icon{
+    width:15px;
+    height:15px;
+    padding-bottom:0px;
+    margin-left: 40px;
+}
+.filter-text{
+   font-size:14px;
+   font-weight:600;
+   padding-left:0px;
+   margin-bottom:20px;
+ }
+.category container{
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+li{
+    display:inline;
+}
+.active-category{
+    color: #fff;
+    Background-color: #0084ff;
+    Width: auto;
+    Padding: 8px 12px;
+    Border: 1px solid #0084ff;
+    Border-radius: 15px;
+    Cursor: pointer;
+    text-align: center;
+}
+.categories{
+    Padding: 8px 12px;
+    Width: auto;
+    color: #0084ff;
+    Border: 1px solid #0084ff;
+    Border-radius: 15px;
+    Margin: 5px;
+    Cursor: pointer;
+    text-align: center;
+}
+article{
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item-container{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin:20px,0px;
+}
+.items{
+    width:300px;
+    border:1px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    height:400px;
+}
+.item-image{
+    width: 100%;
+    height:auto;
+}
+.item-image img{
+    width:100%;
+    height:100%;
+    border-top-left-radius: 5px;
+    Border-top-right-radius: 5px;
+}
+.title{
+   font-size: 18px;
+   font-weight: 600;
+   text-align: left;
+   margin: 0; 
+   color:black;  
+   Padding: 8px 16px;
+}
+.author{
+    color: #0096ff;
+    font-size: 14px;
+    font-style: Italic;
+    font-weight: 500;
+    Padding: 8px 16px;
+}
+.para-text{
+    font-Size: 14px;
+    font-weight: 400;
+    Line-height: 1.43;
+    color: rgba(0,0,0,.6);
+    Margin: 4px 0;
+    Padding: 8px 16px;
+}
+footer{
+    padding:30px 16px;
+    background-color: #172146;
+    margin-left: 10px;
+    margin-right: 10px;
+}
